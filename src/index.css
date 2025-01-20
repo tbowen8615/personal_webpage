@@ -1,0 +1,23 @@
+/* Global styles */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white; /* White background */
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/*smooth scrolling*/
+html {
+  scroll-behavior: smooth;
+}
